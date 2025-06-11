@@ -1,7 +1,3 @@
-Here's the updated README file:
-
----
-
 # Hotel Booking System
 
 A simple hotel booking application with a graphical user interface (GUI) built using Java Swing. It allows users to search and book available rooms in hotels. Hotel admins can manage rooms and view booking details.
