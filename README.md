@@ -35,6 +35,7 @@ A simple hotel booking application with a graphical user interface (GUI) built u
    - update the fields `DB_URL`, `USER`, `PASS` with your credintials.
 
 6. **Run the Application:**
+   
     ```java -cp "target/classes;lib/mysql-connector-j-8.4.0.jar;lib/unknown/binary/KGradientPanel/SNAPSHOT/KGradientPanel-SNAPSHOT.jar" com.mycompany.hotelmangmentsoftware.Home_Page```
 
 ## Requirements
